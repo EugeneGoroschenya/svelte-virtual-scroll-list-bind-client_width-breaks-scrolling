@@ -7,7 +7,7 @@
 Reproduced in Chrome, Opera and Edge (perhaps any Chromium based browser).
 It works fine in Firefox and Safari.
 
-![Oct-03-2024 16-19-52-does-not-work](https://github.com/user-attachments/assets/f048719c-271f-407e-ade3-5945781aa6b3)
+![does-not-work.gif](./gifs/does-not-work.gif)
 
 
 
