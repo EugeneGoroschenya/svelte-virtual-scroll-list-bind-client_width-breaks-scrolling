@@ -67,7 +67,13 @@
             {:else}
               {data.content}
             {/if}
-            <div>witdh: {data.witdh || '?'}px</div>
+            <div>witdh:
+              {#if data.witdh}
+                {data.witdh}px
+              {:else}
+                <s>bind:clientWidth</s>
+              {/if}
+            </div>
           </div>
         </div>
       </VirtualScroll>
