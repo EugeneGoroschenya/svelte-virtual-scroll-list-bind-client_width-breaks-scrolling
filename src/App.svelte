@@ -56,7 +56,7 @@
         on:scroll={({detail}) => {
           range = detail.range
           offset = vs.getOffset()
-				}}>
+        }}>
         <div class="item">
           <div>
             <div>item #{data.id}</div>
