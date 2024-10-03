@@ -54,8 +54,8 @@
         let:data
         bind:this={vs}
         on:scroll={({detail}) => {
-				  range = detail.range
-				  offset = vs.getOffset()
+          range = detail.range
+          offset = vs.getOffset()
 				}}>
         <div class="item">
           <div>
