@@ -1,4 +1,4 @@
-#### [svelte-virtual-scroll-list]
+## [svelte-virtual-scroll-list]
 
 [Block-level element bindings] (e.g. `bind:clientWidth`) breaks scrolling.
 
